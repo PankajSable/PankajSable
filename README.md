@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsable&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsable" /> </p>
 
-- 🔭 I’m currently working on **C# and VB.NET**
+- 🔭 I’m currently working on **C# and ASP.NET CORE**
 
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pankaj-sable-21873b151/](https://www.linkedin.com/in/pankaj-sable-21873b151/)
 
-- 💬 Ask me about **C#, VB, SQL, MongoDB**
+- 💬 Ask me about **C#, >NET Core, SQL, MongoDB**
 
 - 📫 How to reach me **sablepankaj18@gmail.com**
 
