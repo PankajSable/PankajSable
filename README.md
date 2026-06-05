@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sablepankaj18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13C3W5lwT0VObQ1JxFCcfiYgvUujy6PI2/view?usp=sharing](https://drive.google.com/file/d/13C3W5lwT0VObQ1JxFCcfiYgvUujy6PI2/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1OXAytanRtPS4o4_OVggqHSFOw-J3jNpb/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
