@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **pankajsableofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/198h2hrqdO81YdbVlShe6Fhf_3knbGZLJ/view?usp=sharing](https://drive.google.com/file/d/198h2hrqdO81YdbVlShe6Fhf_3knbGZLJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LWzqsETD-Orzz10BjGG4_HInWtvvfU28/view?usp=sharing](https://drive.google.com/file/d/1LWzqsETD-Orzz10BjGG4_HInWtvvfU28/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pankaj-sable-21873b151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/pankaj-sable-21873b151" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pankajsable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/pankajsable" height="30" width="40" /></a>
 <a href="https://instagram.com/sable_pankaj16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sable_pankaj16" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codewithpankaj-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithpankaj-s" height="30" width="40" /></a>
 </p>
